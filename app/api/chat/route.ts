@@ -96,7 +96,7 @@ export async function POST(request: NextRequest) {
       aiResponse = claudeData.content?.[0]?.text || "Lo siento, no pude generar una respuesta."
     } else if (isGeminiAssistant) {
       const geminiResponse = await fetch(
-        `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-exp:generateContent?key=${apiKey}`,
+        `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent?key=${apiKey}`,
         {
           method: "POST",
           headers: {
