@@ -138,7 +138,7 @@ export async function POST(request: NextRequest) {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          model: "mixtral-8x7b-32768",
+          model: "llama-3.3-70b-versatile",
           messages: messages,
           max_tokens: 500,
           temperature: 0.7,
