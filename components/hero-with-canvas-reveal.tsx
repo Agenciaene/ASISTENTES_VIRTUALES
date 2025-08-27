@@ -186,7 +186,7 @@ export default function HeroWithCanvasReveal() {
   const testimonials = [
     {
       quote:
-        "Los asistentes virtuales de AI Assistants transformaron completamente nuestra atención al cliente. Ahora podemos responder consultas 24/7 con una precisión del 95%. Nuestros clientes están más satisfechos que nunca.",
+        "Los asistentes virtuales de Master Chat transformaron completamente nuestra atención al cliente. Ahora podemos responder consultas 24/7 con una precisión del 95%. Nuestros clientes están más satisfechos que nunca.",
       name: "María González",
       designation: "CEO, TechCorp Solutions",
       src: "/professional-business-woman-ceo-smiling-confident.png",
@@ -245,7 +245,7 @@ export default function HeroWithCanvasReveal() {
               "@type": "ContactPoint",
               telephone: "+1-555-123-4567",
               contactType: "customer service",
-              email: "contacto@aiassistants.com",
+              email: "hola@masterchat.es",
             },
             address: {
               "@type": "PostalAddress",
@@ -985,7 +985,7 @@ export default function HeroWithCanvasReveal() {
                   </svg>
                 </a>
               </div>
-              <p className="text-yellow-400 text-sm font-light mb-4">hola@aiassistants.com</p>
+              <p className="text-yellow-400 text-sm font-light mb-4">hola@masterchat.es</p>
               <div className="space-y-2">
                 <a href="#" className="text-gray-400 hover:text-gray-300 text-sm transition-colors font-light block">
                   Términos de Servicio
