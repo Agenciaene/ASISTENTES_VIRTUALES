@@ -5,7 +5,7 @@ import { GeistMono } from "geist/font/mono"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "AI Assistants - Asistentes Virtuales Especializados con IA",
+  title: "Master Chat - Asistentes Virtuales Especializados con IA",
   description:
     "Potencia tu empresa con asistentes virtuales especializados con IA conversacional de última generación. Integra inteligencia artificial en tu sitio web empresarial para mejorar la atención al cliente y automatizar procesos.",
   keywords: [
@@ -20,15 +20,15 @@ export const metadata: Metadata = {
     "procesamiento de lenguaje natural",
     "soluciones empresariales",
   ],
-  authors: [{ name: "AI Assistants Team" }],
-  creator: "AI Assistants",
-  publisher: "AI Assistants",
+  authors: [{ name: "Master Chat Team" }],
+  creator: "Master Chat",
+  publisher: "Master Chat",
   formatDetection: {
     email: false,
     address: false,
     telephone: false,
   },
-  metadataBase: new URL("https://ai-assistants.com"),
+  metadataBase: new URL("https://masterchat.es"),
   alternates: {
     canonical: "/",
     languages: {
@@ -40,8 +40,8 @@ export const metadata: Metadata = {
     title: "AI Assistants - Asistentes Virtuales Especializados con IA",
     description:
       "Potencia tu empresa con asistentes virtuales especializados con IA conversacional de última generación.",
-    url: "https://ai-assistants.com",
-    siteName: "AI Assistants",
+    url: "https://masterchat.es",
+    siteName: "Master Chat",
     images: [
       {
         url: "/og-image.jpg",
@@ -55,11 +55,11 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "AI Assistants - Asistentes Virtuales Especializados con IA",
+    title: "Master Chat - Asistentes Virtuales Especializados con IA",
     description:
       "Potencia tu empresa con asistentes virtuales especializados con IA conversacional de última generación.",
     images: ["/twitter-image.jpg"],
-    creator: "@aiassistants",
+    creator: "@masterchat",
   },
   robots: {
     index: true,
