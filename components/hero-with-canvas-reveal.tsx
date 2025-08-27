@@ -46,7 +46,7 @@ export default function HeroWithCanvasReveal() {
     },
     {
       id: 2,
-      name: "Dr. Sarah",
+      name: "Dra. Sara",
       title: "Asesora de Salud",
       specialty: "Bienestar corporativo y salud ocupacional",
       color: "bg-amber-50 hover:bg-amber-100",
