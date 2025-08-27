@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "AI Assistants - Asistentes Virtuales Especializados con IA",
+    title: "Master Chat - Asistentes Virtuales Especializados con IA",
     description:
       "Potencia tu empresa con asistentes virtuales especializados con IA conversacional de última generación.",
     url: "https://masterchat.es",
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "AI Assistants - Asistentes Virtuales Especializados",
+        alt: "Master Chat - Asistentes Virtuales Especializados",
       },
     ],
     locale: "es_ES",
